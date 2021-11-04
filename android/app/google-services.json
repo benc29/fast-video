@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9883325807",
+    "project_id": "fast-camera-79b94",
+    "storage_bucket": "fast-camera-79b94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9883325807:android:7d332da7219d484a7f849a",
+        "android_client_info": {
+          "package_name": "com.example.hello2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9883325807-dq3d6hj68df700qotro6qg1l7einqrjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtyQMyYD_Oz7kQdznD0NBS7U3Y61mVpr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9883325807-dq3d6hj68df700qotro6qg1l7einqrjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
